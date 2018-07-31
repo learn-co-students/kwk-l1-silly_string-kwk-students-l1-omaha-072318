@@ -1,3 +1,4 @@
+def silly_string
 your_favorite_word = "sweet"
 puts "My favorite word is #{your_favorite_word}"
 
@@ -23,3 +24,4 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 
 sentence = sentence.gsub("a","o").gsub("A","O")
 puts sentence
+end
